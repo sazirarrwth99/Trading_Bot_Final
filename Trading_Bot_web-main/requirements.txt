@@ -1,0 +1,11 @@
+yfinance
+matplotlib
+streamlit
+datetime
+plotly
+numpy
+tqdm
+scikit-learn
+pandas
+torch
+
